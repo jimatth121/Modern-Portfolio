@@ -75,7 +75,7 @@ const Resume: React.FC = () => {
   const education = [
     {
       degree: 'Bachelor of Science in Geography',
-      school: 'University of Technology',
+      school: 'Osun State University',
       period: '2017 - 2022',
       description: 'Started  software engineering and web technologies in year 2'
     },

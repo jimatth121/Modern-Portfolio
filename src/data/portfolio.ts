@@ -65,7 +65,7 @@ It also includes features for uploading and organizing stories, quizzes, and med
     description: 'Monitag Technologies is a digital finance platform that offers a secure, all-in-one wallet for managing savings, payments, and multi-currency transactions. It empowers users with real-time analytics and tools for smart, convenient financial planning.',
     image: MyMonitag,
     technologies: ['React', 'TypeScript', 'Tailwind CSS'],
-    liveUrl: 'https://monitag-dev.vercel.app/',
+    liveUrl: 'https://www.mymonitag.com/',
     githubUrl: 'https://github.com/jimatth121/Monitag'
     }
 ,
@@ -75,7 +75,7 @@ It also includes features for uploading and organizing stories, quizzes, and med
     description: 'Furniture Comfy is an E-commerce web app that is designed to meet the expectation of the buyer and seller and ensure smooth transaction between them',
     image:FurnitureComfy,
     technologies: ['React', 'TypeScript', 'Tailwind CSS', "Reducer", "useContext"],
-    liveUrl: 'https://monitag-dev.vercel.app/',
+    liveUrl: 'https://comfy-furniture.vercel.app/',
     githubUrl: 'https://github.com/jimatth121/Comfy-Furniture'
     }
 ,
@@ -124,7 +124,7 @@ export const skills: Skill[] = [
   { name: 'React', level: 95, icon: 'react', category: 'frontend' },
   { name: 'TypeScript', level: 90, icon: 'code', category: 'frontend' },
   { name: 'Next.js', level: 85, icon: 'zap', category: 'frontend' },
-  { name: 'Vue.js', level: 80, icon: 'layout', category: 'frontend' },
+  { name: 'Node.js', level: 80, icon: 'layout', category: 'frontend' },
   { name: 'Tailwind CSS', level: 95, icon: 'palette', category: 'frontend' },
   { name: 'JavaScript', level: 95, icon: 'code2', category: 'frontend' },
   { name: 'HTML/CSS', level: 98, icon: 'layout', category: 'frontend' },

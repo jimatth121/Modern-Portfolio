@@ -194,16 +194,7 @@ const Blog: React.FC = () => {
           </div>
 
           {/* View All Posts Button */}
-          <motion.div variants={itemVariants} className="text-center pt-8">
-            <motion.button
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              className="inline-flex items-center space-x-2 px-8 py-4 bg-purple-600 text-white font-semibold rounded-xl hover:bg-purple-700 transition-all duration-300 shadow-lg hover:shadow-purple-500/25"
-            >
-              <BookOpen size={20} />
-              <span>View All Posts</span>
-            </motion.button>
-          </motion.div>
+       
         </motion.div>
       </div>
     </section>
